@@ -1,5 +1,10 @@
 # BLE Smart Watch -- nRF52840 Sense Based Wearable System
 
+## 📸 Hardware Connection
+
+![Smart Watch Hardware](smart_watch.jpg)
+
+
 ## Project Overview
 
 This project is a custom-designed BLE-enabled smart watch built using
