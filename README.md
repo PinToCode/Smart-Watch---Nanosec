@@ -4,7 +4,10 @@
 
 <p align="center">
   <img src="(watch.jpeg" width="500"/>
-</p>
+</p>## 📸 Hardware Connection
+
+![Smart Watch Hardware](watch.jpeg)
+
 
 
 ## Project Overview
