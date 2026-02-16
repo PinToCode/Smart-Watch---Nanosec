@@ -2,7 +2,9 @@
 
 ## 📸 Hardware Connection
 
-![Smart Watch Hardware](watch.jpeg)
+<p align="center">
+  <img src="(watch.jpeg" width="500"/>
+</p>
 
 
 ## Project Overview
