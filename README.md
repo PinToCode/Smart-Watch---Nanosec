@@ -108,6 +108,7 @@ A custom mobile application was developed to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
 ## Author
 
 Jerit Jose\
