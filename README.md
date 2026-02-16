@@ -95,7 +95,6 @@ A custom mobile application was developed to:
 
 -   Battery level monitoring
 -   Message preview scrolling
--   Sleep tracking using IMU data
 -   Custom watch faces
 -   OTA firmware updates
 
