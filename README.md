@@ -32,7 +32,7 @@ of using sound.
 -   SoC: Nordic nRF52840 (ARM Cortex-M4F with BLE 5.0)
 -   Display: 1.3 inch I2C OLED
 -   IMU: Built-in 6-axis sensor (on-board)
--   Battery: 3.7V 1000mAh Li-ion
+-   Battery: 3.7V 400mAh Li-ion
 -   Motor Driver: NPN Transistor with base resistor
 -   Notification Output: Vibration Motor
 
@@ -82,7 +82,7 @@ A custom mobile application was developed to:
 
 ## Working Principle
 
-1.  Watch powers ON using 3.7V Li-ion battery.
+1.  Watch powers ON using 3.7V 400mAh Li-ion battery.
 2.  BLE connection is established.
 3.  Time is synchronized from smartphone.
 4.  Notifications are received and displayed.
