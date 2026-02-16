@@ -1,7 +1,5 @@
 # BLE Smart Watch -- nRF52840 Sense Based Wearable System
 
-## 📸 Hardware Connection
-
 <p align="center">
   <img src="watch.jpeg" width="350">
 </p>
